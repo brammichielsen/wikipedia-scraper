@@ -15,3 +15,5 @@ The first day was mostly spent struggling with my initial choice to switch betwe
 
 ## 5. Personal situation 
 This project was done as part of the AI Boocamp at BeCode.org.
+
+blalala
